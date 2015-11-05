@@ -89,3 +89,5 @@ notation!
 Most other style issues should be hopefully covered by the linters (I've tried
 to make them cover as much as possible).  These guidelines will likely grow as I
 find things I don't want in the code base that aren't covered by a linter.
+
+[es6]: https://github.com/lukehoban/es6features "ES6 Features."
