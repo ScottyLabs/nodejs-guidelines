@@ -8,7 +8,7 @@ means that all code that goes to the front-end must be transpiled with `babel`.
 ## Running the Linters
 - Install the linters using `npm`:
 ```console
-$ sudo npm install -g jscs jshint
+$ sudo npm install -g jscs jshint;
 ```
 
 - Run them individually.  I'd recommend getting `jshint` to run clean first (it
